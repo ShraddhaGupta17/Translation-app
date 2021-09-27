@@ -64,4 +64,5 @@ footer {
     background-color: var(--primary-color);
     text-align: center;
     border-radius: 1rem;
+    overflow-x : hidden;
 }
